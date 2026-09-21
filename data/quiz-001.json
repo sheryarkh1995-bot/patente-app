@@ -1,0 +1,2691 @@
+{
+  "id": "quiz-001",
+  "title": "Quiz 01",
+  "subtitle": "30 questions · 90 learning screens",
+  "questions": [
+    {
+      "q": "In una zona a traffico limitato non possono entrare più di un certo numero di veicoli",
+      "ans": "FALSO",
+      "wb": [
+        [
+          "In",
+          "in"
+        ],
+        [
+          "una",
+          "a"
+        ],
+        [
+          "zona",
+          "zone"
+        ],
+        [
+          "a",
+          "with / of"
+        ],
+        [
+          "traffico",
+          "traffic"
+        ],
+        [
+          "limitato",
+          "limited"
+        ],
+        [
+          "non",
+          "not"
+        ],
+        [
+          "possono",
+          "can"
+        ],
+        [
+          "entrare",
+          "enter"
+        ],
+        [
+          "più",
+          "more"
+        ],
+        [
+          "di",
+          "than"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "certo",
+          "certain"
+        ],
+        [
+          "numero",
+          "number"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "veicoli",
+          "vehicles"
+        ]
+      ],
+      "proper": "In a limited traffic zone, no more than a certain number of vehicles may enter.",
+      "rule": "False. A ZTL restricts access according to rules such as vehicle category, authorization or time. It is not defined by a fixed maximum number of vehicles that may enter.",
+      "ling": "The key structure is <b>possono entrare</b>: <i>potere + infinitive</i> means “can enter.” <b>Più di</b> means “more than.” The trap is the idea of <b>un certo numero</b> - a fixed number - which is not what <i>zona a traffico limitato</i> means.",
+      "focus": [
+        [
+          "potere + infinito",
+          "possono entrare = can enter"
+        ],
+        [
+          "più di",
+          "more than"
+        ]
+      ],
+      "id": "Q001",
+      "number": 1
+    },
+    {
+      "q": "Il segnale raffigurato indica un'area di parcheggio riservato ai veicoli della Polizia di Stato",
+      "ans": "FALSO",
+      "img": "parking",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "segnale",
+          "sign"
+        ],
+        [
+          "raffigurato",
+          "shown / depicted"
+        ],
+        [
+          "indica",
+          "indicates"
+        ],
+        [
+          "un'area",
+          "an area"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "parcheggio",
+          "parking"
+        ],
+        [
+          "riservato",
+          "reserved"
+        ],
+        [
+          "ai",
+          "to the"
+        ],
+        [
+          "veicoli",
+          "vehicles"
+        ],
+        [
+          "della",
+          "of the"
+        ],
+        [
+          "Polizia",
+          "Police"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "Stato",
+          "State"
+        ]
+      ],
+      "proper": "The sign shown indicates a parking area reserved for State Police vehicles.",
+      "rule": "False. The blue P sign indicates authorized parking. A reservation for a particular category, such as police vehicles, would need additional information on a supplementary panel.",
+      "ling": "<b>Raffigurato</b> is a past participle used like an adjective: “the sign shown.” <b>Riservato a</b> means “reserved for.” In <b>ai veicoli</b>, <i>ai = a + i</i>. Notice that the sentence adds a very specific restriction that the basic P sign does not contain.",
+      "focus": [
+        [
+          "raffigurato",
+          "shown / depicted"
+        ],
+        [
+          "ai = a + i",
+          "to the"
+        ]
+      ],
+      "id": "Q002",
+      "number": 2,
+      "image": "assets/signs/parking.svg"
+    },
+    {
+      "q": "Se un infortunato della strada è cosciente, ma ha avuto un trauma della gabbia toracica, con ferita visibile e profonda, bisogna comprimere subito con un panno pulito",
+      "ans": "VERO",
+      "wb": [
+        [
+          "Se",
+          "if"
+        ],
+        [
+          "un",
+          "an"
+        ],
+        [
+          "infortunato",
+          "injured person"
+        ],
+        [
+          "della",
+          "of the"
+        ],
+        [
+          "strada",
+          "road"
+        ],
+        [
+          "è",
+          "is"
+        ],
+        [
+          "cosciente",
+          "conscious"
+        ],
+        [
+          "ma",
+          "but"
+        ],
+        [
+          "ha",
+          "has"
+        ],
+        [
+          "avuto",
+          "had"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "trauma",
+          "trauma"
+        ],
+        [
+          "della",
+          "of the"
+        ],
+        [
+          "gabbia",
+          "cage"
+        ],
+        [
+          "toracica",
+          "chest / thoracic"
+        ],
+        [
+          "con",
+          "with"
+        ],
+        [
+          "ferita",
+          "wound"
+        ],
+        [
+          "visibile",
+          "visible"
+        ],
+        [
+          "e",
+          "and"
+        ],
+        [
+          "profonda",
+          "deep"
+        ],
+        [
+          "bisogna",
+          "one must"
+        ],
+        [
+          "comprimere",
+          "press"
+        ],
+        [
+          "subito",
+          "immediately"
+        ],
+        [
+          "con",
+          "with"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "panno",
+          "cloth"
+        ],
+        [
+          "pulito",
+          "clean"
+        ]
+      ],
+      "proper": "If a road casualty is conscious but has suffered chest trauma with a visible, deep wound, it is necessary to press it immediately with a clean cloth.",
+      "rule": "True in the ministerial quiz. The first-aid rule is to protect and compress the visible wound with a clean cloth while waiting for professional medical help, without attempting advanced medical treatment.",
+      "ling": "<b>Se</b> introduces a condition: “if.” <b>Ha avuto</b> is the <i>passato prossimo</i> of <i>avere</i>: “has had / suffered.” <b>Bisogna + infinitive</b> is an impersonal way to say “it is necessary to...” or “one must...”.",
+      "focus": [
+        [
+          "bisogna + infinito",
+          "it is necessary to..."
+        ],
+        [
+          "ha avuto",
+          "has had / suffered"
+        ]
+      ],
+      "id": "Q003",
+      "number": 3
+    },
+    {
+      "q": "Il segnale raffigurato è posto in corrispondenza di un percorso pedonale accanto ad un percorso per le biciclette, separati da spartitraffico",
+      "ans": "FALSO",
+      "img": "shared",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "segnale",
+          "sign"
+        ],
+        [
+          "raffigurato",
+          "shown"
+        ],
+        [
+          "è",
+          "is"
+        ],
+        [
+          "posto",
+          "placed"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "corrispondenza",
+          "correspondence / at"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "percorso",
+          "path"
+        ],
+        [
+          "pedonale",
+          "pedestrian"
+        ],
+        [
+          "accanto",
+          "next"
+        ],
+        [
+          "ad",
+          "to"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "percorso",
+          "path"
+        ],
+        [
+          "per",
+          "for"
+        ],
+        [
+          "le",
+          "the"
+        ],
+        [
+          "biciclette",
+          "bicycles"
+        ],
+        [
+          "separati",
+          "separated"
+        ],
+        [
+          "da",
+          "by"
+        ],
+        [
+          "spartitraffico",
+          "traffic divider"
+        ]
+      ],
+      "proper": "The sign shown is placed at a pedestrian path next to a bicycle path, separated by a traffic divider.",
+      "rule": "False. This sign indicates a shared pedestrian-and-cycle path. It does not describe two separate paths divided by a traffic island or separator.",
+      "ling": "<b>In corrispondenza di</b> is a high-value Patente expression meaning “at the exact location of.” <b>Accanto a</b> means “next to.” <b>Separati</b> is plural because it refers to the two paths described in the sentence.",
+      "focus": [
+        [
+          "in corrispondenza di",
+          "at the exact location of"
+        ],
+        [
+          "accanto a",
+          "next to"
+        ]
+      ],
+      "id": "Q004",
+      "number": 4,
+      "image": "assets/signs/shared.svg"
+    },
+    {
+      "q": "Il pannello integrativo raffigurato è posto su strade innevate per segnalare la presenza di macchine sgombraneve",
+      "ans": "VERO",
+      "img": "snowplough",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "pannello",
+          "panel"
+        ],
+        [
+          "integrativo",
+          "supplementary"
+        ],
+        [
+          "raffigurato",
+          "shown"
+        ],
+        [
+          "è",
+          "is"
+        ],
+        [
+          "posto",
+          "placed"
+        ],
+        [
+          "su",
+          "on"
+        ],
+        [
+          "strade",
+          "roads"
+        ],
+        [
+          "innevate",
+          "snow-covered"
+        ],
+        [
+          "per",
+          "to / in order to"
+        ],
+        [
+          "segnalare",
+          "signal / warn of"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "presenza",
+          "presence"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "macchine",
+          "machines / vehicles"
+        ],
+        [
+          "sgombraneve",
+          "snowploughs"
+        ]
+      ],
+      "proper": "The supplementary panel shown is placed on snow-covered roads to warn of snowploughs.",
+      "rule": "True. The panel warns of snowplough vehicles operating on snowy roads. Drivers must approach with extra caution and keep an appropriate distance from the working vehicle.",
+      "ling": "<b>È posto</b> is a passive construction: “is placed.” <b>Per + infinitive</b> expresses purpose: <i>per segnalare</i> = “in order to warn.” <b>Innevate</b> agrees with the feminine plural noun <i>strade</i>.",
+      "focus": [
+        [
+          "per + infinito",
+          "in order to..."
+        ],
+        [
+          "innevate",
+          "snow-covered"
+        ]
+      ],
+      "id": "Q005",
+      "number": 5,
+      "image": "assets/signs/snowplough.svg"
+    },
+    {
+      "q": "La distanza di sicurezza è commisurata anche al numero di corsie della strada",
+      "ans": "FALSO",
+      "wb": [
+        [
+          "La",
+          "the"
+        ],
+        [
+          "distanza",
+          "distance"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "sicurezza",
+          "safety"
+        ],
+        [
+          "è",
+          "is"
+        ],
+        [
+          "commisurata",
+          "adjusted / proportioned"
+        ],
+        [
+          "anche",
+          "also"
+        ],
+        [
+          "al",
+          "to the"
+        ],
+        [
+          "numero",
+          "number"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "corsie",
+          "lanes"
+        ],
+        [
+          "della",
+          "of the"
+        ],
+        [
+          "strada",
+          "road"
+        ]
+      ],
+      "proper": "The safety distance is also determined according to the number of lanes on the road.",
+      "rule": "False. Safety distance depends on factors such as speed, reaction ability, road grip, tyres, traffic and weather. The number of lanes is not a factor used to determine it.",
+      "ling": "<b>Commisurare a</b> means “to base or adjust according to.” Here <b>al = a + il</b>. The word <b>anche</b> means “also” and tries to add the number of lanes to the genuine list of factors.",
+      "focus": [
+        [
+          "commisurato a",
+          "based on / adjusted to"
+        ],
+        [
+          "anche",
+          "also"
+        ]
+      ],
+      "id": "Q006",
+      "number": 6
+    },
+    {
+      "q": "Quando si traina un rimorchio, la pressione di gonfiaggio degli pneumatici del veicolo trainante deve essere la stessa degli pneumatici del rimorchio",
+      "ans": "FALSO",
+      "wb": [
+        [
+          "Quando",
+          "when"
+        ],
+        [
+          "si",
+          "one / impersonal"
+        ],
+        [
+          "traina",
+          "tows"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "rimorchio",
+          "trailer"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "pressione",
+          "pressure"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "gonfiaggio",
+          "inflation"
+        ],
+        [
+          "degli",
+          "of the"
+        ],
+        [
+          "pneumatici",
+          "tyres"
+        ],
+        [
+          "del",
+          "of the"
+        ],
+        [
+          "veicolo",
+          "vehicle"
+        ],
+        [
+          "trainante",
+          "towing"
+        ],
+        [
+          "deve",
+          "must"
+        ],
+        [
+          "essere",
+          "be"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "stessa",
+          "same"
+        ],
+        [
+          "degli",
+          "of the"
+        ],
+        [
+          "pneumatici",
+          "tyres"
+        ],
+        [
+          "del",
+          "of the"
+        ],
+        [
+          "rimorchio",
+          "trailer"
+        ]
+      ],
+      "proper": "When towing a trailer, the tyre pressure of the towing vehicle must be the same as the tyre pressure of the trailer.",
+      "rule": "False. The towing vehicle and trailer each use the pressure specified for their own tyres and loading conditions. Their pressures do not have to be identical.",
+      "ling": "<b>Quando si traina</b> uses an impersonal <i>si</i>: “when one tows / when towing.” <b>Deve essere</b> means “must be.” <b>La stessa</b> is feminine because it agrees with <i>pressione</i>.",
+      "focus": [
+        [
+          "si + verbo",
+          "impersonal 'one...'"
+        ],
+        [
+          "la stessa",
+          "the same"
+        ]
+      ],
+      "id": "Q007",
+      "number": 7
+    },
+    {
+      "q": "Il segnale raffigurato si può trovare all'inizio di una strada urbana o extraurbana che gode del diritto di precedenza",
+      "ans": "VERO",
+      "img": "priority",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "segnale",
+          "sign"
+        ],
+        [
+          "raffigurato",
+          "shown"
+        ],
+        [
+          "si",
+          "it / one"
+        ],
+        [
+          "può",
+          "can"
+        ],
+        [
+          "trovare",
+          "find"
+        ],
+        [
+          "all'inizio",
+          "at the beginning"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "una",
+          "a"
+        ],
+        [
+          "strada",
+          "road"
+        ],
+        [
+          "urbana",
+          "urban"
+        ],
+        [
+          "o",
+          "or"
+        ],
+        [
+          "extraurbana",
+          "extra-urban"
+        ],
+        [
+          "che",
+          "that"
+        ],
+        [
+          "gode",
+          "enjoys / has"
+        ],
+        [
+          "del",
+          "of the"
+        ],
+        [
+          "diritto",
+          "right"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "precedenza",
+          "priority"
+        ]
+      ],
+      "proper": "The sign shown can be found at the beginning of an urban or extra-urban road that has priority.",
+      "rule": "True. The yellow diamond identifies a priority road and can be placed at the beginning of an urban or extra-urban road that has priority at intersections.",
+      "ling": "<b>Si può trovare</b> literally looks like “one can find itself,” but naturally means “can be found.” <b>Che</b> introduces a relative clause. <b>Godere del diritto di precedenza</b> means “to have the right of way.”",
+      "focus": [
+        [
+          "si può trovare",
+          "can be found"
+        ],
+        [
+          "che",
+          "that / which"
+        ]
+      ],
+      "id": "Q008",
+      "number": 8,
+      "image": "assets/signs/priority.svg"
+    },
+    {
+      "q": "Il segnale raffigurato può essere posto nelle vicinanze di un campo da gioco frequentato da bambini",
+      "ans": "VERO",
+      "img": "children",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "segnale",
+          "sign"
+        ],
+        [
+          "raffigurato",
+          "shown"
+        ],
+        [
+          "può",
+          "can"
+        ],
+        [
+          "essere",
+          "be"
+        ],
+        [
+          "posto",
+          "placed"
+        ],
+        [
+          "nelle",
+          "in the"
+        ],
+        [
+          "vicinanze",
+          "vicinity"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "campo",
+          "field"
+        ],
+        [
+          "da",
+          "for"
+        ],
+        [
+          "gioco",
+          "play"
+        ],
+        [
+          "frequentato",
+          "frequented"
+        ],
+        [
+          "da",
+          "by"
+        ],
+        [
+          "bambini",
+          "children"
+        ]
+      ],
+      "proper": "The sign shown may be placed near a playground frequented by children.",
+      "rule": "True. The children warning sign is used near places where children are likely to be present or cross the road, such as schools and playgrounds.",
+      "ling": "<b>Può essere posto</b> is modal + passive: “may be placed.” <b>Nelle vicinanze di</b> means “near / in the vicinity of.” <b>Frequentato da</b> uses <i>da</i> to introduce who frequents the place.",
+      "focus": [
+        [
+          "nelle vicinanze di",
+          "near"
+        ],
+        [
+          "può essere posto",
+          "may be placed"
+        ]
+      ],
+      "id": "Q009",
+      "number": 9,
+      "image": "assets/signs/children.svg"
+    },
+    {
+      "q": "È regolamentare trovare sulla pavimentazione la scritta P L, con croce di S. Andrea, per segnalare un passaggio a livello",
+      "ans": "VERO",
+      "wb": [
+        [
+          "È",
+          "it is"
+        ],
+        [
+          "regolamentare",
+          "regulation-compliant"
+        ],
+        [
+          "trovare",
+          "to find"
+        ],
+        [
+          "sulla",
+          "on the"
+        ],
+        [
+          "pavimentazione",
+          "road surface"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "scritta",
+          "inscription"
+        ],
+        [
+          "P L",
+          "P L"
+        ],
+        [
+          "con",
+          "with"
+        ],
+        [
+          "croce",
+          "cross"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "S. Andrea",
+          "St Andrew"
+        ],
+        [
+          "per",
+          "to"
+        ],
+        [
+          "segnalare",
+          "signal"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "passaggio",
+          "crossing"
+        ],
+        [
+          "a livello",
+          "level"
+        ]
+      ],
+      "proper": "The letters P L together with a St Andrew's cross may be marked on the road surface to indicate a level crossing.",
+      "rule": "True. P L and the St Andrew's cross are recognized road markings used to warn of a level crossing.",
+      "ling": "<b>È regolamentare + infinitive</b> means that something is permitted or compliant with the rules. <b>Scritta</b> here is a noun meaning “inscription.” <b>Passaggio a livello</b> is a fixed expression meaning “level crossing.”",
+      "focus": [
+        [
+          "è regolamentare",
+          "is permitted / compliant"
+        ],
+        [
+          "passaggio a livello",
+          "level crossing"
+        ]
+      ],
+      "id": "Q010",
+      "number": 10
+    },
+    {
+      "q": "Il segnale raffigurato indica una limitazione di transito su un tratto di strada per i veicoli di massa effettiva superiore a 7 tonnellate",
+      "ans": "VERO",
+      "img": "seven_t",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "segnale",
+          "sign"
+        ],
+        [
+          "raffigurato",
+          "shown"
+        ],
+        [
+          "indica",
+          "indicates"
+        ],
+        [
+          "una",
+          "a"
+        ],
+        [
+          "limitazione",
+          "limitation"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "transito",
+          "traffic / passage"
+        ],
+        [
+          "su",
+          "on"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "tratto",
+          "section"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "strada",
+          "road"
+        ],
+        [
+          "per",
+          "for"
+        ],
+        [
+          "i",
+          "the"
+        ],
+        [
+          "veicoli",
+          "vehicles"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "massa",
+          "mass"
+        ],
+        [
+          "effettiva",
+          "actual"
+        ],
+        [
+          "superiore",
+          "greater"
+        ],
+        [
+          "a",
+          "than"
+        ],
+        [
+          "7",
+          "7"
+        ],
+        [
+          "tonnellate",
+          "tonnes"
+        ]
+      ],
+      "proper": "The sign shown indicates a traffic restriction on a section of road for vehicles whose actual mass exceeds 7 tonnes.",
+      "rule": "True. The temporary sign directs or restricts traffic for vehicles whose actual mass is over 7 tonnes. The key quantity is actual mass, not merely the vehicle's theoretical maximum mass.",
+      "ling": "<b>Superiore a</b> means “greater than.” <b>Massa effettiva</b> means the vehicle's actual mass at that moment. <b>Su un tratto di strada</b> means “on a section of road.”",
+      "focus": [
+        [
+          "superiore a",
+          "greater than"
+        ],
+        [
+          "massa effettiva",
+          "actual mass"
+        ]
+      ],
+      "id": "Q011",
+      "number": 11,
+      "image": "assets/signs/seven_t.svg"
+    },
+    {
+      "q": "Se il carico sporge longitudinalmente per l'intera larghezza della parte posteriore del veicolo, si devono applicare due pannelli retroriflettenti in figura",
+      "ans": "FALSO",
+      "img": "panel305",
+      "wb": [
+        [
+          "Se",
+          "if"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "carico",
+          "load"
+        ],
+        [
+          "sporge",
+          "projects"
+        ],
+        [
+          "longitudinalmente",
+          "lengthwise"
+        ],
+        [
+          "per",
+          "across / for"
+        ],
+        [
+          "l'intera",
+          "the entire"
+        ],
+        [
+          "larghezza",
+          "width"
+        ],
+        [
+          "della",
+          "of the"
+        ],
+        [
+          "parte",
+          "part"
+        ],
+        [
+          "posteriore",
+          "rear"
+        ],
+        [
+          "del",
+          "of the"
+        ],
+        [
+          "veicolo",
+          "vehicle"
+        ],
+        [
+          "si",
+          "one / passive"
+        ],
+        [
+          "devono",
+          "must"
+        ],
+        [
+          "applicare",
+          "fit / apply"
+        ],
+        [
+          "due",
+          "two"
+        ],
+        [
+          "pannelli",
+          "panels"
+        ],
+        [
+          "retroriflettenti",
+          "retroreflective"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "figura",
+          "figure"
+        ]
+      ],
+      "proper": "If the load projects rearwards across the full width of the vehicle, two retroreflective panels of the type shown must be fitted.",
+      "rule": "False. The panel shown identifies certain heavy trailers/semitrailers. A rear-projecting load must instead be marked with the red-and-white striped projecting-load panel; two are used when the projection extends across the full rear width.",
+      "ling": "<b>Se</b> introduces the condition. <b>Si devono applicare</b> is an impersonal/passive form: “must be fitted.” <b>L'intera larghezza</b> means “the entire width.” The trap is not the grammar; it is that the pictured panel is the wrong panel.",
+      "focus": [
+        [
+          "si devono applicare",
+          "must be fitted"
+        ],
+        [
+          "l'intera larghezza",
+          "the entire width"
+        ]
+      ],
+      "id": "Q012",
+      "number": 12,
+      "image": "assets/signs/panel305.svg"
+    },
+    {
+      "q": "Il segnale raffigurato ricorda di spegnere il motore in caso di arresto prolungato in galleria",
+      "ans": "VERO",
+      "img": "tunnel",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "segnale",
+          "sign"
+        ],
+        [
+          "raffigurato",
+          "shown"
+        ],
+        [
+          "ricorda",
+          "reminds"
+        ],
+        [
+          "di",
+          "to"
+        ],
+        [
+          "spegnere",
+          "switch off"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "motore",
+          "engine"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "caso",
+          "case"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "arresto",
+          "stop"
+        ],
+        [
+          "prolungato",
+          "prolonged"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "galleria",
+          "tunnel"
+        ]
+      ],
+      "proper": "The sign shown reminds drivers to switch off the engine in the event of a prolonged stop in a tunnel.",
+      "rule": "True. In a prolonged traffic stop inside a tunnel, switching off the engine reduces exhaust emissions and unnecessary fuel use while the vehicle is stationary.",
+      "ling": "<b>Ricordare di + infinitive</b> means “to remind [someone] to...” Here: <i>ricorda di spegnere</i>. <b>In caso di</b> means “in the event of.” <b>Arresto</b> here is a traffic-imposed stop, not normal parking.",
+      "focus": [
+        [
+          "ricordare di",
+          "to remind to..."
+        ],
+        [
+          "in caso di",
+          "in the event of"
+        ]
+      ],
+      "id": "Q013",
+      "number": 13,
+      "image": "assets/signs/tunnel.svg"
+    },
+    {
+      "q": "Se il tram o il filobus sono fermi la manovra di sorpasso può effettuarsi a destra se esiste il salvagente",
+      "ans": "VERO",
+      "wb": [
+        [
+          "Se",
+          "if"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "tram",
+          "tram"
+        ],
+        [
+          "o",
+          "or"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "filobus",
+          "trolleybus"
+        ],
+        [
+          "sono",
+          "are"
+        ],
+        [
+          "fermi",
+          "stopped"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "manovra",
+          "manoeuvre"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "sorpasso",
+          "overtaking"
+        ],
+        [
+          "può",
+          "can"
+        ],
+        [
+          "effettuarsi",
+          "be carried out"
+        ],
+        [
+          "a",
+          "on"
+        ],
+        [
+          "destra",
+          "the right"
+        ],
+        [
+          "se",
+          "if"
+        ],
+        [
+          "esiste",
+          "there is"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "salvagente",
+          "passenger refuge"
+        ]
+      ],
+      "proper": "If a tram or trolleybus is stopped, it may be overtaken on the right if there is a passenger refuge.",
+      "rule": "True. The passenger refuge separates and protects boarding/alighting passengers, allowing the vehicle to be passed on the right when the other road conditions permit it.",
+      "ling": "<b>Può effettuarsi</b> means “can be carried out”; the final <i>-si</i> gives a passive/impersonal meaning. <b>Salvagente</b> literally can mean “life-saving device,” but in road language it means a pedestrian/passenger refuge island.",
+      "focus": [
+        [
+          "può effettuarsi",
+          "can be carried out"
+        ],
+        [
+          "salvagente",
+          "refuge island"
+        ]
+      ],
+      "id": "Q014",
+      "number": 14
+    },
+    {
+      "q": "Il fenomeno dell'aquaplaning rafforza il contatto fra pneumatici e asfalto",
+      "ans": "FALSO",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "fenomeno",
+          "phenomenon"
+        ],
+        [
+          "dell'aquaplaning",
+          "of aquaplaning"
+        ],
+        [
+          "rafforza",
+          "strengthens"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "contatto",
+          "contact"
+        ],
+        [
+          "fra",
+          "between"
+        ],
+        [
+          "pneumatici",
+          "tyres"
+        ],
+        [
+          "e",
+          "and"
+        ],
+        [
+          "asfalto",
+          "asphalt"
+        ]
+      ],
+      "proper": "Aquaplaning strengthens the contact between the tyres and the road surface.",
+      "rule": "False. Aquaplaning occurs when a layer of water reduces or removes direct tyre-road contact. Grip falls and the vehicle becomes harder to steer and brake.",
+      "ling": "<b>Rafforzare</b> means “to strengthen.” That single verb reverses the real effect and makes the sentence false. <b>Fra ... e ...</b> means “between ... and ...”.",
+      "focus": [
+        [
+          "rafforzare",
+          "to strengthen"
+        ],
+        [
+          "fra ... e ...",
+          "between ... and ..."
+        ]
+      ],
+      "id": "Q015",
+      "number": 15
+    },
+    {
+      "q": "La luce gialla fissa si accende quando è ancora accesa quella rossa",
+      "ans": "FALSO",
+      "wb": [
+        [
+          "La",
+          "the"
+        ],
+        [
+          "luce",
+          "light"
+        ],
+        [
+          "gialla",
+          "yellow"
+        ],
+        [
+          "fissa",
+          "steady"
+        ],
+        [
+          "si",
+          "it"
+        ],
+        [
+          "accende",
+          "turns on"
+        ],
+        [
+          "quando",
+          "when"
+        ],
+        [
+          "è",
+          "is"
+        ],
+        [
+          "ancora",
+          "still"
+        ],
+        [
+          "accesa",
+          "lit / on"
+        ],
+        [
+          "quella",
+          "that one"
+        ],
+        [
+          "rossa",
+          "red"
+        ]
+      ],
+      "proper": "The steady yellow light comes on while the red light is still on.",
+      "rule": "False. In the normal traffic-light sequence, steady yellow follows green and precedes red. Yellow is not shown while the red light is still illuminated.",
+      "ling": "<b>Si accende</b> means “turns on / lights up.” <b>Quella rossa</b> uses <i>quella</i> to avoid repeating <i>luce</i>: “the red one.” <b>Ancora</b> means “still” and is the key timing word.",
+      "focus": [
+        [
+          "si accende",
+          "turns on"
+        ],
+        [
+          "ancora",
+          "still"
+        ]
+      ],
+      "id": "Q016",
+      "number": 16
+    },
+    {
+      "q": "Il segnale raffigurato vieta la sosta nei periodi in cui viene effettuata la pulizia meccanica della strada",
+      "ans": "VERO",
+      "img": "cleaning",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "segnale",
+          "sign"
+        ],
+        [
+          "raffigurato",
+          "shown"
+        ],
+        [
+          "vieta",
+          "prohibits"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "sosta",
+          "parking"
+        ],
+        [
+          "nei",
+          "in the"
+        ],
+        [
+          "periodi",
+          "periods"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "cui",
+          "which"
+        ],
+        [
+          "viene",
+          "is"
+        ],
+        [
+          "effettuata",
+          "carried out"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "pulizia",
+          "cleaning"
+        ],
+        [
+          "meccanica",
+          "mechanical"
+        ],
+        [
+          "della",
+          "of the"
+        ],
+        [
+          "strada",
+          "road"
+        ]
+      ],
+      "proper": "The sign shown prohibits parking during the periods when mechanical street cleaning is carried out.",
+      "rule": "True. The supplementary information limits the no-parking rule to the indicated street-cleaning days and hours.",
+      "ling": "<b>Nei periodi in cui</b> means “during the periods in which.” <b>Viene effettuata</b> is a passive construction: “is carried out.” Remember that <b>sosta</b> means parking, not every brief stop.",
+      "focus": [
+        [
+          "in cui",
+          "in which / when"
+        ],
+        [
+          "viene effettuata",
+          "is carried out"
+        ]
+      ],
+      "id": "Q017",
+      "number": 17,
+      "image": "assets/signs/cleaning.svg"
+    },
+    {
+      "q": "Nell'incrocio rappresentato nella figura il conducente del veicolo A passa per ultimo",
+      "ans": "FALSO",
+      "img": "intersection637",
+      "wb": [
+        [
+          "Nell'incrocio",
+          "in the intersection"
+        ],
+        [
+          "rappresentato",
+          "represented / shown"
+        ],
+        [
+          "nella",
+          "in the"
+        ],
+        [
+          "figura",
+          "figure"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "conducente",
+          "driver"
+        ],
+        [
+          "del",
+          "of the"
+        ],
+        [
+          "veicolo",
+          "vehicle"
+        ],
+        [
+          "A",
+          "A"
+        ],
+        [
+          "passa",
+          "passes"
+        ],
+        [
+          "per",
+          "as"
+        ],
+        [
+          "ultimo",
+          "last"
+        ]
+      ],
+      "proper": "In the intersection shown, the driver of vehicle A passes last.",
+      "rule": "False. In this diagram L passes first; A and C can then pass together; D passes last. Vehicle A is therefore not the last vehicle.",
+      "ling": "<b>Passare per primo / per ultimo</b> is the standard Patente wording for “go first / go last.” <b>Nell'</b> is <i>in + l'</i>. <b>Rappresentato</b> is another past participle used as an adjective: “shown in the figure.”",
+      "focus": [
+        [
+          "passa per ultimo",
+          "goes last"
+        ],
+        [
+          "nell' = in + l'",
+          "in the"
+        ]
+      ],
+      "id": "Q018",
+      "number": 18,
+      "image": "assets/signs/intersection637.svg"
+    },
+    {
+      "q": "La sosta è vietata dovunque venga impedito lo spostamento di veicoli in sosta",
+      "ans": "VERO",
+      "wb": [
+        [
+          "La",
+          "the"
+        ],
+        [
+          "sosta",
+          "parking"
+        ],
+        [
+          "è",
+          "is"
+        ],
+        [
+          "vietata",
+          "prohibited"
+        ],
+        [
+          "dovunque",
+          "wherever"
+        ],
+        [
+          "venga",
+          "is"
+        ],
+        [
+          "impedito",
+          "prevented"
+        ],
+        [
+          "lo",
+          "the"
+        ],
+        [
+          "spostamento",
+          "movement"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "veicoli",
+          "vehicles"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "sosta",
+          "parking"
+        ]
+      ],
+      "proper": "Parking is prohibited wherever it prevents parked vehicles from being moved.",
+      "rule": "True. You may not park in a way that blocks another correctly parked vehicle from entering, leaving or being moved.",
+      "ling": "<b>Dovunque</b> means “wherever.” After this indefinite expression, the sentence uses the subjunctive passive <b>venga impedito</b> = “is prevented.” <b>Veicoli in sosta</b> simply means parked vehicles.",
+      "focus": [
+        [
+          "dovunque",
+          "wherever"
+        ],
+        [
+          "venga impedito",
+          "is prevented"
+        ]
+      ],
+      "id": "Q019",
+      "number": 19
+    },
+    {
+      "q": "Le cinture di sicurezza hanno lo scopo di mantenere il corpo attaccato al sedile in caso di urto violento",
+      "ans": "VERO",
+      "wb": [
+        [
+          "Le",
+          "the"
+        ],
+        [
+          "cinture",
+          "belts"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "sicurezza",
+          "safety"
+        ],
+        [
+          "hanno",
+          "have"
+        ],
+        [
+          "lo",
+          "the"
+        ],
+        [
+          "scopo",
+          "purpose"
+        ],
+        [
+          "di",
+          "to / of"
+        ],
+        [
+          "mantenere",
+          "keep"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "corpo",
+          "body"
+        ],
+        [
+          "attaccato",
+          "attached"
+        ],
+        [
+          "al",
+          "to the"
+        ],
+        [
+          "sedile",
+          "seat"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "caso",
+          "case"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "urto",
+          "impact"
+        ],
+        [
+          "violento",
+          "violent"
+        ]
+      ],
+      "proper": "Seat belts are intended to keep the body against the seat in a violent impact.",
+      "rule": "True. Seat belts restrain the occupant during a collision, reducing contact with the vehicle interior and the risk of being thrown from the vehicle.",
+      "ling": "<b>Avere lo scopo di + infinitive</b> means “to have the purpose of...” <b>Al = a + il</b>. <b>In caso di</b> means “in the event of.” This is a common way the quiz explains the function of a safety device.",
+      "focus": [
+        [
+          "avere lo scopo di",
+          "to have the purpose of"
+        ],
+        [
+          "in caso di",
+          "in the event of"
+        ]
+      ],
+      "id": "Q020",
+      "number": 20
+    },
+    {
+      "q": "Prima di iniziare a guidare un autoveicolo è opportuno regolare gli specchi retrovisori interni ed esterni",
+      "ans": "VERO",
+      "wb": [
+        [
+          "Prima",
+          "before"
+        ],
+        [
+          "di",
+          "of / to"
+        ],
+        [
+          "iniziare",
+          "begin"
+        ],
+        [
+          "a",
+          "to"
+        ],
+        [
+          "guidare",
+          "drive"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "autoveicolo",
+          "motor vehicle"
+        ],
+        [
+          "è",
+          "it is"
+        ],
+        [
+          "opportuno",
+          "advisable"
+        ],
+        [
+          "regolare",
+          "adjust"
+        ],
+        [
+          "gli",
+          "the"
+        ],
+        [
+          "specchi",
+          "mirrors"
+        ],
+        [
+          "retrovisori",
+          "rear-view"
+        ],
+        [
+          "interni",
+          "interior"
+        ],
+        [
+          "ed",
+          "and"
+        ],
+        [
+          "esterni",
+          "exterior"
+        ]
+      ],
+      "proper": "Before driving a motor vehicle, it is advisable to adjust the interior and exterior rear-view mirrors.",
+      "rule": "True. Mirrors should be adjusted before moving off so that the driver has the best possible view behind and beside the vehicle.",
+      "ling": "<b>Prima di + infinitive</b> means “before doing...” <b>È opportuno + infinitive</b> is an impersonal recommendation: “it is advisable to...” <b>Ed</b> is a form of <i>e</i> often used before a following vowel.",
+      "focus": [
+        [
+          "prima di + infinito",
+          "before doing..."
+        ],
+        [
+          "è opportuno",
+          "it is advisable"
+        ]
+      ],
+      "id": "Q021",
+      "number": 21
+    },
+    {
+      "q": "La patente di categoria A2 può essere conseguita da chi ha almeno 18 anni di età",
+      "ans": "VERO",
+      "wb": [
+        [
+          "La",
+          "the"
+        ],
+        [
+          "patente",
+          "licence"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "categoria",
+          "category"
+        ],
+        [
+          "A2",
+          "A2"
+        ],
+        [
+          "può",
+          "can"
+        ],
+        [
+          "essere",
+          "be"
+        ],
+        [
+          "conseguita",
+          "obtained"
+        ],
+        [
+          "da",
+          "by"
+        ],
+        [
+          "chi",
+          "whoever / one who"
+        ],
+        [
+          "ha",
+          "has"
+        ],
+        [
+          "almeno",
+          "at least"
+        ],
+        [
+          "18",
+          "18"
+        ],
+        [
+          "anni",
+          "years"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "età",
+          "age"
+        ]
+      ],
+      "proper": "An A2 licence may be obtained by anyone who is at least 18 years old.",
+      "rule": "True. The minimum age for obtaining category A2 is 18 years.",
+      "ling": "<b>Può essere conseguita</b> is modal + passive: “may be obtained.” <b>Chi</b> means “whoever / the person who.” <b>Almeno</b> is an important numerical word meaning “at least.”",
+      "focus": [
+        [
+          "almeno",
+          "at least"
+        ],
+        [
+          "può essere conseguita",
+          "may be obtained"
+        ]
+      ],
+      "id": "Q022",
+      "number": 22
+    },
+    {
+      "q": "Una frenatura poco efficiente o squilibrata può essere causata dal consumo eccessivo delle guarnizioni frenanti",
+      "ans": "VERO",
+      "wb": [
+        [
+          "Una",
+          "a"
+        ],
+        [
+          "frenatura",
+          "braking"
+        ],
+        [
+          "poco",
+          "not very / little"
+        ],
+        [
+          "efficiente",
+          "efficient"
+        ],
+        [
+          "o",
+          "or"
+        ],
+        [
+          "squilibrata",
+          "unbalanced"
+        ],
+        [
+          "può",
+          "can"
+        ],
+        [
+          "essere",
+          "be"
+        ],
+        [
+          "causata",
+          "caused"
+        ],
+        [
+          "dal",
+          "by the"
+        ],
+        [
+          "consumo",
+          "wear"
+        ],
+        [
+          "eccessivo",
+          "excessive"
+        ],
+        [
+          "delle",
+          "of the"
+        ],
+        [
+          "guarnizioni",
+          "linings"
+        ],
+        [
+          "frenanti",
+          "brake"
+        ]
+      ],
+      "proper": "Inefficient or unbalanced braking can be caused by excessive wear of the brake linings.",
+      "rule": "True. Excessively worn brake linings reduce braking efficiency and can contribute to unequal braking force between wheels.",
+      "ling": "<b>Poco efficiente</b> means “not very efficient,” not “a little efficient.” <b>Può essere causata da</b> is the standard passive cause structure. <b>Dal = da + il</b>.",
+      "focus": [
+        [
+          "poco + aggettivo",
+          "not very..."
+        ],
+        [
+          "causata da",
+          "caused by"
+        ]
+      ],
+      "id": "Q023",
+      "number": 23
+    },
+    {
+      "q": "L'uso del climatizzatore comporta minor consumo di carburante",
+      "ans": "FALSO",
+      "wb": [
+        [
+          "L'uso",
+          "the use"
+        ],
+        [
+          "del",
+          "of the"
+        ],
+        [
+          "climatizzatore",
+          "air conditioner"
+        ],
+        [
+          "comporta",
+          "entails / causes"
+        ],
+        [
+          "minor",
+          "lower / less"
+        ],
+        [
+          "consumo",
+          "consumption"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "carburante",
+          "fuel"
+        ]
+      ],
+      "proper": "Using the air conditioner results in lower fuel consumption.",
+      "rule": "False. Air conditioning requires energy from the vehicle and generally increases fuel or energy consumption rather than reducing it.",
+      "ling": "<b>Comportare</b> means “to entail / result in.” <b>Minor consumo</b> means “lower consumption.” This is a classic reversal: replacing <i>maggiore</i> with <i>minor</i> changes the truth of the statement.",
+      "focus": [
+        [
+          "comportare",
+          "to result in"
+        ],
+        [
+          "minor",
+          "lower / less"
+        ]
+      ],
+      "id": "Q024",
+      "number": 24
+    },
+    {
+      "q": "Attraversare un passaggio a livello con manovra azzardata per guadagnare tempo, può essere un pericolo per molti individui, oltre che per il conducente",
+      "ans": "VERO",
+      "wb": [
+        [
+          "Attraversare",
+          "to cross / crossing"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "passaggio",
+          "crossing"
+        ],
+        [
+          "a livello",
+          "level"
+        ],
+        [
+          "con",
+          "with"
+        ],
+        [
+          "manovra",
+          "manoeuvre"
+        ],
+        [
+          "azzardata",
+          "risky / reckless"
+        ],
+        [
+          "per",
+          "to"
+        ],
+        [
+          "guadagnare",
+          "gain / save"
+        ],
+        [
+          "tempo",
+          "time"
+        ],
+        [
+          "può",
+          "can"
+        ],
+        [
+          "essere",
+          "be"
+        ],
+        [
+          "un",
+          "a"
+        ],
+        [
+          "pericolo",
+          "danger"
+        ],
+        [
+          "per",
+          "for"
+        ],
+        [
+          "molti",
+          "many"
+        ],
+        [
+          "individui",
+          "people"
+        ],
+        [
+          "oltre",
+          "in addition"
+        ],
+        [
+          "che",
+          "to"
+        ],
+        [
+          "per",
+          "for"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "conducente",
+          "driver"
+        ]
+      ],
+      "proper": "Crossing a level crossing recklessly to save time can endanger many people, not just the driver.",
+      "rule": "True. A dangerous level-crossing manoeuvre can put the driver, passengers, other road users and people on the train at risk.",
+      "ling": "The infinitive <b>Attraversare</b> acts as the subject of the sentence: “Crossing...” <b>Per + infinitive</b> expresses purpose: <i>per guadagnare tempo</i>. <b>Oltre che</b> means “as well as / in addition to.”",
+      "focus": [
+        [
+          "per + infinito",
+          "in order to..."
+        ],
+        [
+          "oltre che",
+          "as well as"
+        ]
+      ],
+      "id": "Q025",
+      "number": 25
+    },
+    {
+      "q": "La responsabilità civile connessa al sinistro stradale consiste nell'obbligo di risarcire i danni causati sia alle persone che alle cose",
+      "ans": "VERO",
+      "wb": [
+        [
+          "La",
+          "the"
+        ],
+        [
+          "responsabilità",
+          "responsibility"
+        ],
+        [
+          "civile",
+          "civil"
+        ],
+        [
+          "connessa",
+          "connected"
+        ],
+        [
+          "al",
+          "to the"
+        ],
+        [
+          "sinistro",
+          "accident"
+        ],
+        [
+          "stradale",
+          "road"
+        ],
+        [
+          "consiste",
+          "consists"
+        ],
+        [
+          "nell'obbligo",
+          "in the obligation"
+        ],
+        [
+          "di",
+          "to"
+        ],
+        [
+          "risarcire",
+          "compensate"
+        ],
+        [
+          "i",
+          "the"
+        ],
+        [
+          "danni",
+          "damages"
+        ],
+        [
+          "causati",
+          "caused"
+        ],
+        [
+          "sia",
+          "both"
+        ],
+        [
+          "alle",
+          "to the"
+        ],
+        [
+          "persone",
+          "people"
+        ],
+        [
+          "che",
+          "and"
+        ],
+        [
+          "alle",
+          "to the"
+        ],
+        [
+          "cose",
+          "things / property"
+        ]
+      ],
+      "proper": "Civil liability arising from a road accident consists of the obligation to compensate damage caused to both people and property.",
+      "rule": "True. Civil liability concerns compensation for damage caused to persons and property as a result of the accident.",
+      "ling": "<b>Consistere in</b> means “to consist of.” <b>Risarcire i danni</b> means “to compensate damages.” The paired construction <b>sia ... che ...</b> means “both ... and ...”.",
+      "focus": [
+        [
+          "consistere in",
+          "to consist of"
+        ],
+        [
+          "sia ... che ...",
+          "both ... and ..."
+        ]
+      ],
+      "id": "Q026",
+      "number": 26
+    },
+    {
+      "q": "Il simbolo raffigurato è posto sul comando di accensione dei proiettori di profondità",
+      "ans": "VERO",
+      "img": "highbeam",
+      "wb": [
+        [
+          "Il",
+          "the"
+        ],
+        [
+          "simbolo",
+          "symbol"
+        ],
+        [
+          "raffigurato",
+          "shown"
+        ],
+        [
+          "è",
+          "is"
+        ],
+        [
+          "posto",
+          "placed"
+        ],
+        [
+          "sul",
+          "on the"
+        ],
+        [
+          "comando",
+          "control"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "accensione",
+          "switching on"
+        ],
+        [
+          "dei",
+          "of the"
+        ],
+        [
+          "proiettori",
+          "headlights"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "profondità",
+          "depth / high-beam"
+        ]
+      ],
+      "proper": "The symbol shown is on the control for switching on the high-beam headlights.",
+      "rule": "True. This is the symbol for the high-beam headlights (proiettori di profondità); the corresponding dashboard warning light is blue.",
+      "ling": "<b>Essere posto su</b> means “to be located on.” <b>Comando di accensione</b> means the switch/control used to turn something on. <b>Proiettori di profondità</b> is the formal Patente term for high beams.",
+      "focus": [
+        [
+          "sul = su + il",
+          "on the"
+        ],
+        [
+          "proiettori di profondità",
+          "high beams"
+        ]
+      ],
+      "id": "Q027",
+      "number": 27,
+      "image": "assets/signs/highbeam.svg"
+    },
+    {
+      "q": "Dopo aver effettuato una manovra di sorpasso il conducente del veicolo deve riportarsi a destra appena possibile senza creare pericolo o intralcio",
+      "ans": "VERO",
+      "wb": [
+        [
+          "Dopo",
+          "after"
+        ],
+        [
+          "aver",
+          "having"
+        ],
+        [
+          "effettuato",
+          "carried out"
+        ],
+        [
+          "una",
+          "a"
+        ],
+        [
+          "manovra",
+          "manoeuvre"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "sorpasso",
+          "overtaking"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "conducente",
+          "driver"
+        ],
+        [
+          "del",
+          "of the"
+        ],
+        [
+          "veicolo",
+          "vehicle"
+        ],
+        [
+          "deve",
+          "must"
+        ],
+        [
+          "riportarsi",
+          "return / move back"
+        ],
+        [
+          "a",
+          "to"
+        ],
+        [
+          "destra",
+          "the right"
+        ],
+        [
+          "appena",
+          "as soon as"
+        ],
+        [
+          "possibile",
+          "possible"
+        ],
+        [
+          "senza",
+          "without"
+        ],
+        [
+          "creare",
+          "creating"
+        ],
+        [
+          "pericolo",
+          "danger"
+        ],
+        [
+          "o",
+          "or"
+        ],
+        [
+          "intralcio",
+          "obstruction"
+        ]
+      ],
+      "proper": "After overtaking, the driver must return to the right as soon as possible without creating danger or obstruction.",
+      "rule": "True. Once an overtaking manoeuvre is completed, the driver must return to the right when it can be done safely and without obstructing other traffic.",
+      "ling": "<b>Dopo aver + past participle</b> means “after having done...” <b>Riportarsi a destra</b> means “move back to the right.” <b>Senza + infinitive</b> means “without doing...”.",
+      "focus": [
+        [
+          "dopo aver + participio",
+          "after having..."
+        ],
+        [
+          "senza + infinito",
+          "without doing..."
+        ]
+      ],
+      "id": "Q028",
+      "number": 28
+    },
+    {
+      "q": "L'assunzione di alcool facilita la guida, perché rende più vigili e attenti",
+      "ans": "FALSO",
+      "wb": [
+        [
+          "L'assunzione",
+          "the intake / consumption"
+        ],
+        [
+          "di",
+          "of"
+        ],
+        [
+          "alcool",
+          "alcohol"
+        ],
+        [
+          "facilita",
+          "makes easier"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "guida",
+          "driving"
+        ],
+        [
+          "perché",
+          "because"
+        ],
+        [
+          "rende",
+          "makes"
+        ],
+        [
+          "più",
+          "more"
+        ],
+        [
+          "vigili",
+          "alert"
+        ],
+        [
+          "e",
+          "and"
+        ],
+        [
+          "attenti",
+          "attentive"
+        ]
+      ],
+      "proper": "Drinking alcohol makes driving easier because it makes you more alert and attentive.",
+      "rule": "False. Alcohol impairs attention, judgement and reaction time and can create overconfidence. It does not make the driver more alert or attentive.",
+      "ling": "<b>Rendere + adjective</b> means “to make [someone] ...”: <i>rende più vigili</i> = “makes more alert.” <b>Perché</b> introduces the reason. The whole sentence is built as a cause-and-effect reversal.",
+      "focus": [
+        [
+          "rendere + aggettivo",
+          "to make someone..."
+        ],
+        [
+          "perché",
+          "because"
+        ]
+      ],
+      "id": "Q029",
+      "number": 29
+    },
+    {
+      "q": "La svolta a destra si effettua senza mai dare la precedenza ai pedoni, se il semaforo ha la luce verde accesa",
+      "ans": "FALSO",
+      "wb": [
+        [
+          "La",
+          "the"
+        ],
+        [
+          "svolta",
+          "turn"
+        ],
+        [
+          "a",
+          "to"
+        ],
+        [
+          "destra",
+          "the right"
+        ],
+        [
+          "si",
+          "one / passive"
+        ],
+        [
+          "effettua",
+          "is carried out"
+        ],
+        [
+          "senza",
+          "without"
+        ],
+        [
+          "mai",
+          "ever / never"
+        ],
+        [
+          "dare",
+          "give"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "precedenza",
+          "priority"
+        ],
+        [
+          "ai",
+          "to the"
+        ],
+        [
+          "pedoni",
+          "pedestrians"
+        ],
+        [
+          "se",
+          "if"
+        ],
+        [
+          "il",
+          "the"
+        ],
+        [
+          "semaforo",
+          "traffic light"
+        ],
+        [
+          "ha",
+          "has"
+        ],
+        [
+          "la",
+          "the"
+        ],
+        [
+          "luce",
+          "light"
+        ],
+        [
+          "verde",
+          "green"
+        ],
+        [
+          "accesa",
+          "lit / on"
+        ]
+      ],
+      "proper": "A right turn is made without ever giving way to pedestrians if the traffic light is green.",
+      "rule": "False. A green light permits the vehicle to proceed, but a driver turning right must still give way to pedestrians who are crossing as required.",
+      "ling": "<b>Si effettua</b> is an impersonal/passive form: “is carried out.” <b>Senza mai + infinitive</b> is a strong absolute: “without ever doing...” This kind of absolute wording is a frequent Patente trap. <b>Dare la precedenza a</b> = “give way to.”",
+      "focus": [
+        [
+          "senza mai + infinito",
+          "without ever doing..."
+        ],
+        [
+          "dare la precedenza",
+          "give way"
+        ]
+      ],
+      "id": "Q030",
+      "number": 30
+    }
+  ]
+}
